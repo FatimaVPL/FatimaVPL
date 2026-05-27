@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Fatima 👋
 
-<!--
-**FatimaVPL/FatimaVPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Systems Engineer focused on Frontend Development and UX/UI Design.  
+🎨 Passionate about creating modern, intuitive and user-centered digital experiences.  
+🚀 Currently improving my skills in web development, interfaces and AI-powered solutions.  
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+- UI/UX: Figma, Wireframing, Prototyping, Design Systems
+- Backend & DB: Supabase, PostgreSQL
+- Tools: Git, GitHub, VS Code
+
+## ✨ About Me
+
+- I enjoy designing clean and interactive interfaces.
+- I like combining creativity with technology.
+- Interested in Frontend, UX/UI
+- Constantly learning and building personal projects.
+
+## 📌 Featured Interests
+
+- Web Development
+- Mobile Interfaces
+- UX/UI Design
+- Digital Product Design
+
+## 📫 Contact
+
+- GitHub: @FatimaVPL
+
+---
+
+⭐ Always learning, creating and improving.
